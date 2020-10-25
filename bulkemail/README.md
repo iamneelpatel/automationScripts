@@ -3,7 +3,7 @@
 ### Getting started
 
 
-- To begin with you will have to download the required module. You can do this by doing: 
+- To begin with you will have to download the required module. You can do this by doing: <br/>
     `pip3 install -r requirements` or `pip install -r requirements`
 
 - The script supports .xlsx files. You can add all the emails in excel in this format: 
